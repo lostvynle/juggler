@@ -1,0 +1,9 @@
+Optimization problem matching jugglers to circuits given certain parameters.
+
+See problemStatement.txt for details.
+
+jugglefest.txt is the data to be sorted.
+
+outputFile.txt contains the results in the format required by the problem statement.
+
+jugglerModule.py can be run to produce the output file.

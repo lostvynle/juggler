@@ -1,4 +1,3 @@
-import sys,re
 """ Sorts jugglers into circuit teams based on compatibility score and set of juggler preferences.
 
     See problems statement for full description of problem.
@@ -19,6 +18,8 @@ import sys,re
 
     This can be run as a python script.
 """
+
+import sys,re
 
 class Circuit(object):
     """ Container for methods and parameters for each trick circuit.
